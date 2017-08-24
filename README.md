@@ -1,7 +1,7 @@
 # Day 2: Git Intellij Exemple
 ## Guide on howto share your code from a IntelliJ project
 
- 
+* Create a repo on github
 * Create a _.gitignore_ file in you project on your computer
   * it should exclude all files and folders except for your src folder and its content
   
@@ -18,4 +18,16 @@ out/*
 *.iml
 *.class
 ````  
+* run the commands 
+```` 
+ $ git init
+ 
+ $ git remote add origin << url to github repo >>
+ 
+ $ git add .
+ $ git commit -m "initial commit"
+ $ git push -u origin master
+ 
+````      
+
 
