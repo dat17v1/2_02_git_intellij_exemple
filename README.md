@@ -3,7 +3,7 @@
 
 1. 
 2. Create a _.gitignore_ file in you project on your computer
-  a. it should exclude all files and folders except for your src folder and its content
+  1. it should exclude all files and folders except for your src folder and its content
   
 ```` 
 .idea/*
