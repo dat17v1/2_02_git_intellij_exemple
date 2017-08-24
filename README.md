@@ -38,3 +38,7 @@ The other persons in the group should now:
 * Clone repository
 * Check out from version control pop-up
    * click **YES**
+* Create from existing source
+* NEXT, NEXT, NEXT
+
+Thats it!
