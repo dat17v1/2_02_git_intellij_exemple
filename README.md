@@ -10,5 +10,12 @@
 out/*
 *.iml
 ````    
+* In case that someone in your group is working on VS Code instead of IntelliJ you will also need to exclude the .class files, which will be saved in the same folder as the .java files.
 
+```` 
+.idea/*
+out/*
+*.iml
+*.class
+````  
 
