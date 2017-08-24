@@ -36,3 +36,5 @@ The other persons in the group should now:
   * Check out from version control -> Github
      * Auth type -> Password
 * Clone repository
+* Check out from version control pop-up
+   * click **YES**
