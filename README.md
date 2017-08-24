@@ -30,4 +30,9 @@ out/*
  
 ````      
 
+The other persons in the group should now:
 
+* Create a new project in IntelliJ using 
+  * Check out from version control -> Github
+     * Auth type -> Password
+* Clone repository
